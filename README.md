@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricardo Maia
 - 👀 I’m interested in blockchain developing projects
-- 🌱 I’m currently learning distributed apps develop over blockchain technology
+- 🌱 I’m currently learning distributed apps development over blockchain technology
 - 💞️ I’m looking to collaborate on dapps projects
 - 📫 How to reach me ricardomaia1280@gmail.com
 
